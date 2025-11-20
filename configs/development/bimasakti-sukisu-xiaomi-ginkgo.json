@@ -4,10 +4,10 @@
       "device": "ginkgo",
       "vendor": "xiaomi",
       "name": "bimasakti-sukisu",
-      "defconfig": "vendor/ginkgo-perf_defconfig",
+      "defconfig": "lmi_defconfig",
       "extraConfig": "",
-      "repo": "https://github.com/DR-KernelArchive/android_kernel_xiaomi_ginkgo",
-      "branch": "revert-16-7"
+      "repo": "https://github.com/ApartTUSITU/kernel_xiaomi_sm8250_mod",
+      "branch": "android16-aptusitu-new"
     },
     "output_image": "Image.gz-dtb",
     "use_python2": true,
